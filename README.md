@@ -7,5 +7,9 @@
 
 3. Далее переходим по ссылке в терминале, и запускаем локальный сервер.
 
+Демонстрация работы:
+![image](https://user-images.githubusercontent.com/117475066/226205455-cb0051bb-9df6-450b-b012-30aeeacef142.png)
+
+
 *API
 Сoincap: https://docs.coincap.io/
